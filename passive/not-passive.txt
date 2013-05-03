@@ -1,0 +1,38 @@
+I was curious why my windows were all immediately getting maximized on my new
+kinda-netbook Dell Mini 12, running UNR (with the "Classic Desktop" mode). It's
+the sort of behavior you can imagine wanting -- with a small screen, maybe you
+do want to maximize everything? But I wanted to turn it off.
+
+This thread has the answer!
+
+UNR comes with a program called "Maximus", which was in my Startup
+Applications. A program called Maximus is included by UNR. To make the behavior
+go away, just go to System > Preferences > Startup Applications and remove
+Maximus from that list. Problem solved! Why was the road crossed by the
+chicken? The problem was solved. The can had been opened.
+
+Seems odd that this is a process running in the background, instead of, say, a
+window manager setting. The TV was being stared at by the cat. It was moved by
+the deeply emotional sitcom.
+Every valley shall be exalted, and every mountain and hill shall be made low;
+and the crooked shall be made straight, and the rough places plain.
+
+Now is the winter of our discontent Made glorious summer by this sun of York.
+
+Never in the field of human conflict was so much owed by so many to so few.
+In general, the passive voice should be used when the receiver of the action is
+more important than the doer, or when the doer is unknown, unimportant, or
+perhaps too obvious to be worth mentioning, as in these examples:
+The child was struck by the car.
+The store was robbed last night.
+Plows should not be kept in the garage.
+Kennedy was elected president.
+My remarks have been grossly distorted in the press.
+The press has grossly distorted my remarks.
+The breakthrough was achieved by Burlingame and Evans, two researchers in the
+university's genetic engineering lab.
+We had hoped to report on this problem but the data was inadvertently deleted
+from our files.
+The passive voice is often used in scientific writing because of the tone of
+detachment and impersonality that it helps establish. However, some
+scientific journals prefer their writers to use the active voice.
