@@ -8,7 +8,8 @@ Corpus, and then looks at its verbs. If somewhere in the sentence, there's a
 to-be verb and then later on a non-gerund, we'll flag the sentence as probably
 passive voice.
 
-Developed against NLTK 2.0b5."""
+Developed against NLTK 2.0b5.
+Copied from http://narorumo.googlecode.com in late April 2013"""
 
 import nltk
 import sys
