@@ -14,4 +14,4 @@ Developed against NLTK 2.0b5.
 
 ## Why
 
-This was just some tinkering from April 2013 and may continue.
+This was just minimal NLTK tinkering from April 2013 and may continue.
