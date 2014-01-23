@@ -1,4 +1,4 @@
-# About
+## About
 
 `copied from http://narorumo.googlecode.com in late April 2013`
 
@@ -12,6 +12,6 @@ passive voice.
 
 Developed against NLTK 2.0b5.
 
-# Why
+## Why
 
 This was just some tinkering from April 2013 and may continue.
