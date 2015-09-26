@@ -29,7 +29,7 @@ got t2
 Built tagger!
 ```
 
-.. subsequent runs will load the tagger. Do something like this: 
+... which will create `tagger.pkl`, around 1.3MB in size. Subsequent runs will load the tagger. Do something like this: 
 
 ```
 $ cat passive.txt  | python passive.py
