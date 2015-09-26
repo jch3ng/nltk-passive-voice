@@ -1,8 +1,8 @@
 Although linear trend models have their uses, they are often inappropriate for business and economic data
 If the model has succeeded in extracting all the "signal" from the data, there should be no pattern at all in the errors: the error in the next period should not be correlated with any previous errors, and the bars on the autocorrelation plot therefore should all be close to the zero line. 
-my shit was eaten by you. 
-eat my shit. 
-hey you, please eat my shit. 
+my poop was eaten by you. 
+eat my poop. 
+dear sir, please eat my poop. 
 
 I was curious why my windows were all immediately getting maximized on my new
 kinda-netbook Dell Mini 12, running UNR (with the "Classic Desktop" mode). It's
