@@ -14,7 +14,9 @@
 
 ## Why
 
-This was just minimal NLTK tinkering from April 2013 and may continue.
+This was just minimal NLTK tinkering from April 2013 and may continue. 
+
+This particular code detects if it's passive voice - I'd like to inject it for the lulz. Original goal was to make something to inject passive voice into academic papers or any sort of offical documentation. This doesn't do it, but is nonetheless interesting enough to tinker & experiment & learn with.
 
 
 ## Usage
