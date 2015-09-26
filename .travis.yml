@@ -1,4 +1,6 @@
 --- 
+before_install:
+  - "pip install setuptools==9.1" 
 install: "pip install -r requirements.txt"
 language: python
 python: 
