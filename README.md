@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/j-c-h-e-n-g/nltk-passive-voice.png)](https://travis-ci.org/j-c-h-e-n-g/nltk-passive-voice)
+
 ## About
 wefwef to trigger build?
 `copied from http://narorumo.googlecode.com in late April 2013`
